@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>章鱼哥的小屋</title>
+        <link>https://kaisayi.github.io/</link>
+        <description>个人博客站点，记录并分享大数据，机器学习，算法的内容</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1209086740@qq.com (章鱼哥)</managingEditor>
+            <webMaster>1209086740@qq.com (章鱼哥)</webMaster>
+            <atom:link href="https://kaisayi.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
